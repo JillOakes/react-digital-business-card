@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="448" height="512">
+	<title>linkedin-brands-svg</title>
+	<defs>
+		<image  width="448" height="512" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcAAAAIAAQMAAAAv6y4ZAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAADBElEQVR4nO3dzZGjMBAFYCgOHAlBoSg0EZpCUQgcObB4zb/kZYruhwfW5fdOQ8FXNUjAdOugyTKGYRiGYfby0KafXKmGjzBCq4cd9ps+M7gcgTV2i9NNVghsntAgsH1Ch8AOHNRxWFEIzcYwHwUGPTaNw0RC03gCNtj8D08ADC0Guxugw2B/A8Tc8/UgJCQkJCQkJPwg+AeEnaYliKHX9JIxVLV2EexUzWQEh9ZOXkxG0Ksa5giODbO4Ddlgr+vtNzi16OLR2WCrW4bYLmwm6NRwWoYQD+sG/QSNGtYonNdopBO5wnmNRjyR/0Bps73CDoXz/IsfnfOwUS59nYdhge5yaJXQ3weNEtYfCIVv8nmYEX43vP6R+6D30Z+G9ioYTkN3Fbz+D2t7FqqLB7jOgSsruJaDq8flvdJDr3qr3lGTB9Wj+o6+A+504N4K7uam+TAAhDvWVjM2b+nK8XUAeOUBXutQhZCQkJDwDHQYDDu1gQT2e8WBBPq9ykkA+91CVgCXotvuw7RC9lGdvfxcauFSrGdK2K3Q6uDaV6TF0zH0Kyx1sF5hroJ9tkUF2whaDWwiaDQwRLDSwDqChQZGLhnWIxgPajKsR7BLoJPDNoFWDpsEGjkMCazk0CewlMMahYmLnwAdzMUwnf/4CTiAHQrbF+hQaKWwQWF4gebXoX+BlRS+Bobl5bC4HOafA7MPgu5yaL8AGsKfYaWAJi4EFLBISk8FHO4qINBFJ6MP6yEcP4g9AKcrAWjG41oPbXosh248Dmo4f4HXWqBQwlYN5ws7NSxROD9ivRqa5brLoJ1P15dBN5/2yenfhI+zMChhfh9slLD4AljunyYcUt0H1w8r4QoNISEhISEhISEhISEhISEhISEhISEhISEhIeGlUBtCQkJCQkJCwv8dOszdsXWzxeAdG2IbDJ7YLRze2Lw8vmgvAYfwdvH58UV7qTPw9cjA3ft7FHZxT6LJ0N7A/9oAmsiQyTfMSeLjNkuTsT+zejf1dsBNhrQllCdjGIZhGGYvfwF1zWiCGmH8EQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+</svg>
